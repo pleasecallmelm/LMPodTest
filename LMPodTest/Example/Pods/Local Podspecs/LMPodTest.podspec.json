@@ -1,0 +1,23 @@
+{
+  "name": "LMPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of LMPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/WSHY-LM/LMPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "WSHY-LM": "liangming@52yunxi.cn"
+  },
+  "source": {
+    "git": "https://github.com/WSHY-LM/LMPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "static_framework": true,
+  "source_files": "LMPodTest/Classes/**/*"
+}
